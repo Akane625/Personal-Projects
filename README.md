@@ -5,9 +5,9 @@ This is a repository for personal projects for any programming language (as of w
 ---
 
 ## 📚 Table of Contents
-| No. | Folder Name | Description |
-|-----|--------------|------------|
-| 1 | [Python](./Python) | Python projects from basic to advance |
+| No. | Folder Name | Description | Difficuty Range |
+|-----|--------------|------------|-----------------|
+| 1 | [Python](./Python) | This includes normal Python, libraries, and such related | Beginner - Intermediate |
 
 ---
 
