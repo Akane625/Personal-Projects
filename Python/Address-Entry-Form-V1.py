@@ -1,6 +1,7 @@
 import tkinter as tk
 
 window = tk.Tk()
+window.title("Address Entry Form")
 
 f_name = tk.Label(text="First Name:")
 l_name = tk.Label(text="Last Name:")
