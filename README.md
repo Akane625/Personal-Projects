@@ -11,7 +11,8 @@ This is a repository for personal projects for any programming language (as of w
 
 ---
 
-## 📁 Folder Structure
-```
-┣ 📂 Python
-```
+## 📁 Repository Folder Structure
+<pre>
+📦 Personal-Projects
+└── 📂 Python
+</pre>
