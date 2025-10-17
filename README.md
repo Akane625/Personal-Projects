@@ -1,6 +1,6 @@
 # Languages Include
 
-This is a repository for personal projects for any programming language (as of writing this my favorite language is C#).
+This is a repository for personal projects for any programming language (as of writing this my favorite language is C#). The projects contained here are written by me.
 
 ---
 
