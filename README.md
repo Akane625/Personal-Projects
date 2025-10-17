@@ -8,6 +8,7 @@ This is a repository for personal projects for any programming language (as of w
 | No. | Folder Name | Description | Difficuty Range |
 |-----|--------------|------------|-----------------|
 | 1 | [Python](./Python) | This includes normal Python, libraries, and such related | Beginner - Intermediate |
+| 2 | [Learning-Tkinter](././Learning-Tkinter) | This are tkinter projects I made for practice | Beginner |
 
 ---
 
