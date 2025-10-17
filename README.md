@@ -16,5 +16,5 @@ This is a repository for personal projects for any programming language (as of w
 <pre>
 📦 Personal-Projects
 └── 📂 Python
-    └── 📂 Learning-Tkinter
+│   └── 📂 Learning-Tkinter
 </pre>
