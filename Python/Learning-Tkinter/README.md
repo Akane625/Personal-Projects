@@ -1,5 +1,5 @@
 # Python Projects
 
-Folder containing Python projects.
+Folder containing practice tkinter projects.
 
 --> Wanna go back? [CLICK HERE](https://github.com/Akane625/Personal-Projects) <--
