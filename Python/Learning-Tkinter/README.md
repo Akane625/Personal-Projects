@@ -1,6 +1,6 @@
 # Learning Tkinter
 
-Folder containing practice tkinter projects. I like to view tkinter as a foundation for other GUI modules in Python.
+I like to view tkinter as a foundation for other GUI modules in Python.
 
 --> Wanna go back? [CLICK HERE](https://github.com/Akane625/Personal-Projects) <--
 
