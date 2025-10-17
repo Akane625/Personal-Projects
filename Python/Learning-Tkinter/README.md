@@ -1,4 +1,4 @@
-# Python Projects
+# Learning Tkinter
 
 Folder containing practice tkinter projects.
 
