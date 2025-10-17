@@ -1,4 +1,4 @@
-# Python Projects
+# Python
 
 Folder containing Python projects.
 
