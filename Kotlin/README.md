@@ -1,4 +1,4 @@
-# 🖼️ Kotlin
+# 🖼️ Learning Kotlin
 
 Kotlin to me is a full on android developer tool.
 
