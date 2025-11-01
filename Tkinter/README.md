@@ -2,7 +2,7 @@
 
 I like to view tkinter as a foundation for other GUI modules in Python.
 
---> Wanna go back? [CLICK HERE](https://github.com/Akane625/Personal-Projects) <--
+--> Wanna go back? [CLICK HERE](../) <--
 
 ## 📚 References
 | No. | Source | Title | URL | Level | Status |
