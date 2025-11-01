@@ -15,6 +15,6 @@ This is a repository for learning resources I used for any programming language 
 ## 📁 Repository Folder Structure
 <pre>
 📦 My-Learning-Resources
-└── 📂 Kotlin
+├── 📂 Kotlin
 └── 📂 Tkinter
 </pre>
