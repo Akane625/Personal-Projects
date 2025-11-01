@@ -1,20 +1,20 @@
 # 🧭 Overview
 
-This is a repository for personal projects for any programming language (as of writing this my favorite language is C#). The projects contained here are written by me.
+This is a repository for learning resources I userd for any programming language I will be learning myself.
 
 ---
 
 ## 📚 Table of Contents
-| No. | Folder Name | Description | Difficuty Range |
-|-----|--------------|------------|-----------------|
-| 1 | [Python](./Python) | This includes normal Python, libraries, and such related | Beginner - Intermediate |
-| 2 | [Learning-Tkinter](https://github.com/Akane625/Personal-Projects/tree/main/Python/Learning-Tkinter) | This are tkinter projects I made for practice | Beginner |
+| No. | Folder Name |
+|-----|--------------|
+| 1 | [Python](./Python) | 
+| 2 | [Learning-Tkinter](https://github.com/Akane625/Personal-Projects/tree/main/Python/Learning-Tkinter) |
 
 ---
 
 ## 📁 Repository Folder Structure
 <pre>
-📦 Personal-Projects
+📦 My-Learning-Resources
 └── 📂 Python
     └── 📂 Learning-Tkinter
 </pre>
