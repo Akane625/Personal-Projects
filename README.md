@@ -8,12 +8,13 @@ This is a repository for learning resources I used for any programming language 
 | No. | Folder Name | Level | Status |
 |-----|--------------|------|--------|
 | 1 | [Tkinter](Tkinter/) | Beginner | $${\color{red} Dropped}$$ |
-| 2 | [Kotlin]() | Beginner | $${\color{green} Ongoing}$$ |
+| 2 | [Kotlin](Kotlin/) | Beginner | $${\color{green} Ongoing}$$ |
 
 ---
 
 ## 📁 Repository Folder Structure
 <pre>
 📦 My-Learning-Resources
+└── 📂 Kotlin
 └── 📂 Tkinter
 </pre>
