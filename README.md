@@ -5,9 +5,10 @@ This is a repository for learning resources I used for any programming language 
 ---
 
 ## 📚 Table of Contents
-| No. | Folder Name |
-|-----|--------------|
-| 1 | [Tkinter](Tkinter/) |
+| No. | Folder Name | Level | Status |
+|-----|--------------|------|--------|
+| 1 | [Tkinter](Tkinter/) | Beginner |
+| 2 | [Kotlin]() | Beginner |
 
 ---
 
