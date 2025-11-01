@@ -7,7 +7,7 @@ This is a repository for learning resources I userd for any programming language
 ## 📚 Table of Contents
 | No. | Folder Name |
 |-----|--------------|
-| 1 | [Learning-Tkinter](Tkinter./) |
+| 1 | [Learning-Tkinter](Tkinter/) |
 
 ---
 
