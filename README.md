@@ -7,8 +7,9 @@ This is a repository for learning resources I used for any programming language 
 ## 📚 Table of Contents
 | No. | Folder Name | Level | Status |
 |-----|--------------|------|--------|
-| 1 |  [Kotlin](Kotlin/)  | Beginner - Intermediate | $${\color{green} Ongoing}$$ |
-| 2 | [Tkinter](Tkinter/) | Beginner | $${\color{red} Dropped}$$ |
+| 1 | [Android Studio]() | Beginner | $${\color{green} Ongoing}$$ |
+| 2 |  [Kotlin](Kotlin/)  | Beginner - Intermediate | $${\color{green} Ongoing}$$ |
+| 3 | [Tkinter](Tkinter/) | Beginner | $${\color{red} Dropped}$$ |
 
 ---
 
