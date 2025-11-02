@@ -7,4 +7,4 @@ Android studio is a tool for making android applications. It follows the program
 ## 📚 References
 | No. | Source | Title | URL |
 |-----|--------|-------|-----|
-| 1 | freeCodeCamp.org | Android App Development Tutorial for Beginners - Your First App | [link]([https://youtu.be/F9UC9DY-vIU?si=8yw3Wq0ipm1gHEjE](https://youtu.be/FjrKMcnKahY?si=tYgoFO_4aXmr7CW6)) |
+| 1 | freeCodeCamp.org | Android App Development Tutorial for Beginners - Your First App | [link](https://youtu.be/FjrKMcnKahY?si=tYgoFO_4aXmr7CW6) |
