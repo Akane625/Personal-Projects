@@ -5,6 +5,6 @@ Kotlin to me is a full on android developer tool. My main motivation for learnin
 --> Wanna go back? [CLICK HERE](../) <--
 
 ## 📚 References
-| No. | Source | Title | URL |
-|-----|--------|-------|-----|
-| 1 | freeCodeCamp.org | Kotlin Course - Tutorial for Beginners | [link](https://youtu.be/F9UC9DY-vIU?si=8yw3Wq0ipm1gHEjE) |
+| No. | Source | Title | URL | Start Date | End Date | Duration |
+|-----|--------|-------|-----|------------|----------|----------|
+| 1 | freeCodeCamp.org | Kotlin Course - Tutorial for Beginners | [link](https://youtu.be/F9UC9DY-vIU?si=8yw3Wq0ipm1gHEjE) | NaN | NaN | NaN |
