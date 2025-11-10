@@ -5,11 +5,11 @@ This is a repository for learning resources I used for any programming language 
 ---
 
 ## 📚 Table of Contents
-| No. | Folder Name | Level | Status |
-|-----|--------------|------|--------|
-| 1 | [Android Studio](Android%20Studio/) | Beginner | $${\color{green} Ongoing}$$ |
-| 2 |  [Kotlin](Kotlin/)  | Beginner - Intermediate | $${\color{green} Ongoing}$$ |
-| 3 | [Tkinter](Tkinter/) | Beginner | $${\color{red} Dropped}$$ |
+| No. | Folder Name | Level | Status | Last Updated |
+|-----|--------------|------|--------|--------------|
+| 1 | [Android Studio](Android%20Studio/) | Beginner | $${\color{green} Ongoing}$$ | 11/10/25 |
+| 2 |  [Kotlin](Kotlin/)  | Beginner - Intermediate | $${\color{green} Ongoing}$$ | 11/10/25 |
+| 3 | [Tkinter](Tkinter/) | Beginner | $${\color{red} Dropped}$$ | 
 
 ---
 
