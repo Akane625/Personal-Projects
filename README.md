@@ -17,9 +17,9 @@ This is a repository for learning resources I used for any programming language 
 <pre>
 📦 My-Learning-Resources
 ├── 📂 Android Studio
-    └── 📂 1
+|   └── 📂 1
 ├── 📂 Kotlin
-    └── 📂 1
+|   └── 📂 1
 └── 📂 Tkinter
     └── 📂 1
 </pre>
