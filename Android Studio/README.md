@@ -1,6 +1,6 @@
 # 🖼️ Learning Android Studio
 
-Android studio is a tool for making android applications. It follows the programming language Kotlin as one of its available syntax, the other is Java. I will be using Kotlin.
+Android studio is a tool for making android applications. It follows the programming language Kotlin as one of its available syntax, the other is Java. I will be using Kotlin. I won't be able to post the full working app so I will just leave the main code file.
 
 --> Wanna go back? [CLICK HERE](../) <--
 
