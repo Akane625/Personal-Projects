@@ -9,6 +9,7 @@ This is a repository for learning resources I used for any programming language 
 |-----|--------------|------|--------|--------------|
 | 1 | [Android Studio](Android%20Studio/) | Beginner | $${\color{green} Ongoing}$$ | 11/10/25 |
 | 2 |  [Kotlin](Kotlin/)  | Intermediate | $${\color{green} Ongoing}$$ | 11/11/25 |
+| 3 | [Python](Python/) | Intermediate | $${\color{green} Ongoing}$$ | 11/11/25 |
 | 3 | [Tkinter](Tkinter/) | Beginner | $${\color{red} Dropped}$$ | 11/02/25 |
 
 ---
