@@ -8,7 +8,7 @@ This is a repository for learning resources I used for any programming language 
 | No. | Folder Name | Level | Status | Last Updated |
 |-----|--------------|------|--------|--------------|
 | 1 | [Android Studio](Android%20Studio/) | Beginner | $${\color{green} Ongoing}$$ | 11/10/25 |
-| 2 |  [Kotlin](Kotlin/)  | Beginner - Intermediate | $${\color{green} Ongoing}$$ | 11/10/25 |
+| 2 |  [Kotlin](Kotlin/)  | Intermediate | $${\color{green} Ongoing}$$ | 11/11/25 |
 | 3 | [Tkinter](Tkinter/) | Beginner | $${\color{red} Dropped}$$ | 11/02/25 |
 
 ---
