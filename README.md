@@ -21,6 +21,8 @@ This is a repository for learning resources I used for any programming language 
 |   └── 📂 1
 ├── 📂 Kotlin
 |   └── 📂 1
+├── 📂 Python
+|   └── 📂 1
 └── 📂 Tkinter
     └── 📂 1
 </pre>
