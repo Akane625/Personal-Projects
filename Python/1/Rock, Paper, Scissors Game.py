@@ -11,17 +11,9 @@ while True:
 
     if player == bot:
         print("Tie")
-    elif (player == "r") & (bot == "p"):
+    elif ((player == "r") & (bot == "p")) or ((player == "p") & (bot == "s")) or ((player == "s") & (bot == "r")):
         print("You lose")
-    elif (player == "r") & (bot == "s"):
-        print("You win")
-    elif (player == "p") & (bot == "r"):
-        print("You win")
-    elif (player == "p") & (bot == "s"):
-        print("You lose")
-    elif (player == "s") & (bot == "r"):
-        print("You lose")
-    elif (player == "s") & (bot == "p"):
+    elif ((player == "r") & (bot == "s")) or ((player == "p") & (bot == "r")) or ((player == "s") & (bot == "p")):
         print("You win")
     else:
         print("Invalid choice!")
