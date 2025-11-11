@@ -25,3 +25,4 @@ while True:
         break
     else:
         print("Invalid choice, ending program.")
+        break
