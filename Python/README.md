@@ -1,6 +1,6 @@
 # 🖼️ Improve Python
 
-I want to improve on my Python skills with some projects.
+I want to improve on my Python skills with some projects. So you can expect this file won't be just a copy paste learning.
 
 --> Wanna go back? [CLICK HERE](../) <--
 
