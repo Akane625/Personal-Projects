@@ -7,4 +7,4 @@ I want to improve on my Python skills with some projects. So you can expect this
 ## 📚 References
 | No. | Source | Title | URL | Start Date | End Date | Duration |
 |-----|--------|-------|-----|------------|----------|----------|
-| 1 | Programming with Mosh | Python Projects for Beginners – Master Problem-Solving! 🚀 | [link](https://youtu.be/yVl_G-F7m8c?si=UelYTGHXHYwzxP7C) | 11/11/25 | NaN | NaN |
+| 1 | Programming with Mosh | Python Projects for Beginners – Master Problem-Solving! 🚀 | [link](https://youtu.be/yVl_G-F7m8c?si=UelYTGHXHYwzxP7C) | 11/11/25 | 11/11/25 | <1 day |
